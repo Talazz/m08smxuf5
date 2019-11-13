@@ -1,0 +1,136 @@
+  table,td,th {
+      border: 2px solid black;
+      border-collapse:collapse;
+      padding: 3px;
+  }
+  span {
+      text-align: right;
+  }
+
+#cuadrado {
+    background-color: #b2bcbc;
+}
+
+#Dilluns {
+    background-color: #b2bcbc;
+}
+
+#Dimarts {
+    background-color: #b2bcbc;
+}
+#Dimecres {
+    background-color: #b2bcbc;
+}
+#Dijous {
+    background-color: #b2bcbc;
+}
+#Divendres {
+    background-color: #b2bcbc;
+}
+#Primerahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Segundahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Tercerahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Cuartahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Quintahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Sextahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Septimahora {
+    text-align: center;
+    padding:17px;
+    background-color: #b2bcbc;
+}
+#Patio {
+    text-align: center;
+    padding:10px;
+}
+#smx {
+    float: right;
+    text-align: right;
+}
+#smx1 {
+    float: right;
+    text-align: right;
+}
+#smx2 {
+    float: right;
+    text-align: right;
+}
+#smx3 {
+    float: right;
+    text-align: right;
+}
+#smx4 {
+    float: right;
+    text-align: right;
+}
+#smx5 {
+    float: right;
+    text-align: right;
+}
+#smx6 {
+    float: right;
+    text-align: right;
+}
+#smx7 {
+    float: right;
+    text-align: right;
+}
+#smx8 {
+    float: right;
+    text-align: right;
+}
+#smx9 {
+    float: right;
+    text-align: right;
+}
+#smx10 {
+    float: right;
+    text-align: right;
+}
+#smx11 {
+    float: right;
+    text-align: right;
+}
+#smx12 {
+    float: right;
+    text-align: right;
+}
+#smx13 {
+    float: right;
+    text-align: right;
+}
+#smx14 {
+    float: right;
+    text-align: right;
+}
+#smx15 {
+    float: right;
+    text-align: right;
+}
+#smx16 {
+    float: right;
+    text-align: right;
+}
