@@ -1,0 +1,39 @@
+#menu{
+	list-style: none; 
+
+}
+li{
+	display: inline;
+	text-align: center;
+
+
+}
+
+
+
+li a:link{
+	text-decoration: none;
+	background: #661923;
+	color: white;
+
+}
+
+li a:first-child {
+
+	display: block;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+
+
+}
+
+li a:hover{
+	background: #e30052;
+
+}
+
+li a: visited{
+	color: brown;
+
+}

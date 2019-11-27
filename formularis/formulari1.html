@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Formulari</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="formulari1.css">
+    </head>
+    <body>
+
+        <h1>Curriculum</h1>
+        <form method="post" action="">
+        <fieldset id="tabla">
+            <fieldset id="field1">
+                    <legend id="Info">Información Basica</legend>
+
+                    <label class="Info1" for="Nombre">Nombre </label><br>
+                    <input type="text" name="Nombre" id="Nombre" placeholder="tunombre" required/><br>            
+                    
+                    <label class="Info1" for="Altura">Altura en centimetros</label><br>
+                    <input type="number" name="Altura" id="Altura" required /><br>
+                     
+                    <label class="Info1" for="email">email</label><br>
+                    <input type="email" name="email" id="email" placeholder="tumail@dominio.com" required/><br>
+
+                    <label class="Info1" for="Fecha">Fecha de nacimiento</label><br>
+                    <input type="date" name="Fecha" required/><br>
+
+    
+
+            </fieldset>
+            
+            <fieldset id="field2">
+                    <legend id="Nacionalidad">Nacionalidad</legend>
+                    <input type="radio" name="Nacionalidad" value="Española" id="Española"/> <label class="Country" for="Española" >Española</label>
+                    <input type="radio" name="Nacionalidad" value="Comunitario(UE)" id="Española"/> <label class="Country" for="Comunitario(UE)" >Comunitario(UE)</label>
+                    <input type="radio" name="Nacionalidad" value="No Comunitario" id="Española"/> <label class="Country" for="No Comunitario" >No Comunitario</label>
+
+
+            </fieldset>
+
+            <fieldset id="field3">
+                    <legend id="Estudios">Estudios</legend>
+                    <select name="Estudios" id="GM">
+                        <option value="GM">GM</option>
+                    </select>
+                    </fieldset>
+
+
+                    <fieldset id="field4">
+                        <legend id="Idiomas">Idiomas</legend>
+                        <input type="checkbox" name="Catalán" id="Catalán"/><label class="Idiomas"for="Catalán">Catalán</label>
+                        <input type="checkbox" name="Castellano" id="Castellano"/><label class="Idiomas" for="Castellano">Castellano</label>
+                        <input type="checkbox" name="Ingles" id="Ingles"/><label class="Idiomas" for="Ingles">Ingles</label>
+                        <input type="checkbox" name="Chino" id="Chino"/><label class="Idiomas" for="Chino">Chino</label>
+
+                    </fieldset>
+
+                    <fieldset id="field5">
+                        
+                        
+                        <input type="submit" value="Enviar"/> <input type="reset" value="Reset"/>
+                  
+                    </fieldset>
+                </fieldset>
+
+
+
+
+
+        
+
+    </body>
+
+
+
+    </html>
