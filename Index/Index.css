@@ -4,3 +4,25 @@ body {background: white url(militar.jpg) repeat;
     text-align: center;
     font-size: 75px;
 }
+
+#Introduccio {
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+#Continuacio {
+    color: green;
+    font-size: 17px;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: none;
+    background-color: yellow;
+    
+}
+a {
+    text-decoration: none;
+} 
+    
+    
+   
